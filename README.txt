@@ -1,0 +1,1 @@
+Este repositório, contem documentação do projeto de smart contract do curso de Blockchain – FIAP.
